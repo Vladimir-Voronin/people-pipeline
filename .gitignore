@@ -6,6 +6,7 @@ __pycache__/
 # .env files
 .env
 *.env
+!not_sensitive.env
 
 # pycharm
 .idea/
