@@ -1,0 +1,29 @@
+# python specific
+__pycache__/
+*.py[cod]
+*.pyo
+
+# .env files
+.env
+*.env
+
+# pycharm
+.idea/
+*.iml
+
+# system files
+.DS_Store
+Thumbs.db
+*.log
+
+# dirs for dependencies
+*.egg-info/
+dist/
+build/
+
+# deleted files
+*.egg
+
+# virtual env
+venv/
+.env/
